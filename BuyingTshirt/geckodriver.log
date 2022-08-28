@@ -1,0 +1,33 @@
+1661681572825	geckodriver	INFO	Listening on 127.0.0.1:62142
+1661681575776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NIPUN\\AppData\\Local\\Temp\\rust_mozprofileCfIbSG"
+1661681578480	Marionette	INFO	Marionette enabled
+1661681578496	Marionette	INFO	Listening on port 62153
+WebDriver BiDi listening on ws://localhost:62143
+Read port: 62153
+1661681579386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NIPUN\\AppData\\Local\\Temp\\rust_mozprofileCfIbSG\\search.json.mozlz4", (void 0)))
+1661681589140	Marionette	INFO	Stopped listening on port 62153
+1661681589160	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661681608259	geckodriver	INFO	Listening on 127.0.0.1:62182
+1661681611301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NIPUN\\AppData\\Local\\Temp\\rust_mozprofilexCFIEq"
+1661681611894	Marionette	INFO	Marionette enabled
+1661681611902	Marionette	INFO	Listening on port 62192
+WebDriver BiDi listening on ws://localhost:62183
+Read port: 62192
+1661681612311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NIPUN\\AppData\\Local\\Temp\\rust_mozprofilexCFIEq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62183/devtools/browser/1d71dadc-5d81-48f6-8f8e-90ce49e247ca
+1661681618924	Marionette	INFO	Stopped listening on port 62192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: policy is null"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
